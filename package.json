@@ -20,7 +20,9 @@
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-router-dom": "^6.4.3",
+    "recharts": "^2.1.16"
   },
   "devDependencies": {
     "eslint": "latest",
